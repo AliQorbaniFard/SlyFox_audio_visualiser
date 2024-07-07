@@ -1,5 +1,7 @@
 # STM32F746G_DISCO TBS.
 
+This projects, is related to visualising audio by STM32F746 microcontroller(discovery board)
+
 The default IDE is set to STM32CubeIDE, to change IDE open the STM32F746G_DISCO.ioc with STM32CubeMX and select from the supported IDEs (EWARM from version 8.50.9, MDK-ARM, and STM32CubeIDE). Supports flashing of the STM32F746G_DISCO board directly from TouchGFX Designer using GCC and STM32CubeProgrammer.Flashing the board requires STM32CubeProgrammer which can be downloaded from the ST webpage. 
 
 This TBS is configured for 272 x 480 pixels 16bpp screen resolution.  
