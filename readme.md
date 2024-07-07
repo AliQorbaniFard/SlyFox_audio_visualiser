@@ -5,4 +5,6 @@ The default IDE is set to STM32CubeIDE, to change IDE open the STM32F746G_DISCO.
 This TBS is configured for 272 x 480 pixels 16bpp screen resolution.  
 
 Performance testing can be done using the GPIO pins designated with the following signals: VSYNC_FREQ  - Pin PB4(D3), RENDER_TIME - Pin PC6(D1), FRAME_RATE  - Pin PC7(D0), MCU_ACTIVE  - Pin PG6(D2)
- 
+
+In this specific project STM32CubeIDE is used, and the gui has been produced by Touchgfx.
+
