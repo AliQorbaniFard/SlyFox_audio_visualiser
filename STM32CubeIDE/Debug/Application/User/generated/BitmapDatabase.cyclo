@@ -1,0 +1,2 @@
+D:/TouchGFX_projects/dvd_project/SlyFox/Audio_Visualiser/TouchGFX/generated/images/src/BitmapDatabase.cpp:59:37:const touchgfx::Bitmap::BitmapData* BitmapDatabase::getInstance()	1
+D:/TouchGFX_projects/dvd_project/SlyFox/Audio_Visualiser/TouchGFX/generated/images/src/BitmapDatabase.cpp:64:10:uint16_t BitmapDatabase::getInstanceSize()	1
