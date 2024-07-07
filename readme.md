@@ -14,5 +14,7 @@ The .hex file is provided in STM32CubeIDE>Debug>STM32F746G_DISCO.hex
 
 To upload the program to your microcontroller open STM32 ST-Utility>External Loader and select N25Q128A_STM32F746-DISCO
 
+Pin A0 is used for ADC 
+
 A video on how to use this, will be uploaded on our youtube channel soon and the link will be provided
 ![photo_5789823590017909508_y](https://github.com/AliQorbaniFard/SlyFox_audio_visualiser/assets/126378284/4fb6899f-b438-43f1-8906-4d9b86d7547f)
