@@ -8,3 +8,6 @@ Performance testing can be done using the GPIO pins designated with the followin
 
 In this specific project STM32CubeIDE is used, and the gui has been produced by Touchgfx.
 
+The .hex file is provided in STM32CubeIDE>Debug>STM32F746G_DISCO.hex
+
+To upload the program to your microcontroller open STM32 ST-Utility>External Loader and select N25Q128A_STM32F746-DISCO
