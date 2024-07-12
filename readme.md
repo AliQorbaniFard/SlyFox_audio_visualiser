@@ -16,5 +16,7 @@ To upload the program to your microcontroller open STM32 ST-Utility>External Loa
 
 Pin A0 is used for ADC 
 
+AUX cable is used for this project
+
 A video on how to use this, will be uploaded on our youtube channel soon and the link will be provided
 ![photo_5789823590017909508_y](https://github.com/AliQorbaniFard/SlyFox_audio_visualiser/assets/126378284/4fb6899f-b438-43f1-8906-4d9b86d7547f)
