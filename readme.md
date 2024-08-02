@@ -18,5 +18,9 @@ Pin A0 is used for ADC
 
 AUX cable is used for this project
 
-A video on how to use this, will be uploaded on our youtube channel soon and the link will be provided
+A video on how to use this, is uploaded on our youtube channel and the link is provided:
+
+youtube video: [click here](https://www.youtube.com/shorts/kzpKBU0FxkY)
+
+
 ![photo_5789823590017909508_y](https://github.com/AliQorbaniFard/SlyFox_audio_visualiser/assets/126378284/4fb6899f-b438-43f1-8906-4d9b86d7547f)
